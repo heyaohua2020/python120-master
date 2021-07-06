@@ -16,4 +16,8 @@ Python爬虫120例正式开始
 6. [我用 Python 连夜离线了 100G 图片，只为了防止网站被消失](https://dream.blog.csdn.net/article/details/117918309)
 7. [对 Python 爬虫编写者充满诱惑的网站,《可爱图片网》,瞧人这网站名字起的](https://dream.blog.csdn.net/article/details/118035208)
 8. [5000张高清壁纸大图（手机用），用Python在法律的边缘又试探了一把](https://dream.blog.csdn.net/article/details/118145504)
+9. [10994部漫画信息，用Python实施大采集，因为反爬差一点就翻车了](https://blog.csdn.net/hihell/article/details/118222271)
+10. [爬动漫“上瘾”之后，放弃午休，迫不及待的用Python薅了腾讯动漫的数据，啧啧啧](https://blog.csdn.net/hihell/article/details/118340372)
+11. [他说：“只是单纯的想用Python收集一些素颜照，做机器学习使用”，“我信你个鬼！”](https://blog.csdn.net/hihell/article/details/118385640)
+12. [1小时赚100元，某群X友，周末采集了20000+漫展历史数据，毫无技术难度](https://blog.csdn.net/hihell/article/details/118485941)
 
