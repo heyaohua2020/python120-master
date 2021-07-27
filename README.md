@@ -20,4 +20,6 @@ Python爬虫120例正式开始
 10. [爬动漫“上瘾”之后，放弃午休，迫不及待的用Python薅了腾讯动漫的数据，啧啧啧](https://blog.csdn.net/hihell/article/details/118340372)
 11. [他说：“只是单纯的想用Python收集一些素颜照，做机器学习使用”，“我信你个鬼！”](https://blog.csdn.net/hihell/article/details/118385640)
 12. [1小时赚100元，某群X友，周末采集了20000+漫展历史数据，毫无技术难度](https://blog.csdn.net/hihell/article/details/118485941)
+13. [程序员（媛）不懂汉服？岂能让别人小看，咱先靠肉眼大数据识别万张穿搭照](https://dream.blog.csdn.net/article/details/118541741)
+14. [老友(研发岗)被裁后，想加盟小吃店，我用Python采集了一点数据，多少是个心意](https://dream.blog.csdn.net/article/details/118706925)
 
