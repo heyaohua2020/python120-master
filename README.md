@@ -22,4 +22,11 @@ Python爬虫120例正式开始
 12. [1小时赚100元，某群X友，周末采集了20000+漫展历史数据，毫无技术难度](https://blog.csdn.net/hihell/article/details/118485941)
 13. [程序员（媛）不懂汉服？岂能让别人小看，咱先靠肉眼大数据识别万张穿搭照](https://dream.blog.csdn.net/article/details/118541741)
 14. [老友(研发岗)被裁后，想加盟小吃店，我用Python采集了一点数据，多少是个心意](https://dream.blog.csdn.net/article/details/118706925)
+15. [整个大活，采集8个代理IP站点，为Python代理池铺路，爬虫120例之第15例](https://dream.blog.csdn.net/article/details/119137580)
+16. [极复杂编码，下载《原神》角色高清图、中日无损配音，爬虫 16 / 120 例](https://dream.blog.csdn.net/article/details/111028288)
+17. [爬虫120例之第17例，用Python面向对象的思路，采集各种精彩句子](https://dream.blog.csdn.net/article/details/119632820)
+18. [requests库与 lxml 库常用操作整理+总结，爬虫120例阶段整理篇](https://dream.blog.csdn.net/article/details/119633672)
+19. [正则表达式 与 XPath 语法领域细解，初学阶段的你，该怎么学？](https://dream.blog.csdn.net/article/details/119633700)
+20. [Python爬虫120例之第20例，1637、一路商机网全站加盟数据采集](https://dream.blog.csdn.net/article/details/119850647)
+21. [孔夫子旧书网数据采集，举一反三学爬虫，Python爬虫120例第21例](https://dream.blog.csdn.net/article/details/119878744)
 
