@@ -41,4 +41,13 @@ Python爬虫120例正式开始
 ### 多线程爬虫之 threading 模块
 22. [谁有粉？就爬谁！他粉多，就爬他！Python 多线程采集 260000+ 粉丝数据](https://dream.blog.csdn.net/article/details/119931364)
 23. [懒人畅听网，有声小说类目数据采集，多线程速采案例，Python爬虫120例之23例](https://dream.blog.csdn.net/article/details/119914203)
+24. [虎牙直播数据采集，为数据分析做储备，Python爬虫120例之第24例](https://dream.blog.csdn.net/article/details/119914288)
+25. [我们的骄傲！非遗数据采集，来自官方的数据，Python爬虫无所不爬](https://dream.blog.csdn.net/article/details/119914306)
+
+### 预备知识
+- [赞！一篇博客讲解清楚 Python queue模块，作为Python爬虫预备知识，用它解决采集队列问题](https://dream.blog.csdn.net/article/details/119982537)
+
+
+
+
 
