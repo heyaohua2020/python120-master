@@ -47,6 +47,11 @@ Python爬虫120例正式开始
 ### 预备知识
 - [赞！一篇博客讲解清楚 Python queue模块，作为Python爬虫预备知识，用它解决采集队列问题](https://dream.blog.csdn.net/article/details/119982537)
 
+### 多线程 threading + queue 模块
+26. [全国美容大夫数据采集数据（花容网 huaroo 公开数据），爬虫120例之26例](https://dream.blog.csdn.net/article/details/119914401)
+27. [一个站点不够学？那就在用Python增加一个采集目标，一派话题广场+某金融论坛话题广场爬虫](https://dream.blog.csdn.net/article/details/119914560)
+28. [域名中介数据采集，待发布]
+29. [稿定设计数据采集，待发布]
 
 
 
