@@ -50,8 +50,13 @@ Python爬虫120例正式开始
 ### 多线程 threading + queue 模块
 26. [全国美容大夫数据采集数据（花容网 huaroo 公开数据），爬虫120例之26例](https://dream.blog.csdn.net/article/details/119914401)
 27. [一个站点不够学？那就在用Python增加一个采集目标，一派话题广场+某金融论坛话题广场爬虫](https://dream.blog.csdn.net/article/details/119914560)
-28. [域名中介数据采集，待发布]
-29. [稿定设计数据采集，待发布]
+28. [Python爬虫采集，中介网互联网网站排行榜， 样本数量：58341](https://dream.blog.csdn.net/article/details/119941727)
+29. [用Python保住“设计大哥“的头发，直接甩给他10000张参考图，爬虫采集【稿定设计】平面模板素材](https://dream.blog.csdn.net/article/details/120010272)
+
+### requests-html 库学习
+
+30. [外网站点排行榜数据采集]
+
 
 
 
