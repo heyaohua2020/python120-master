@@ -55,7 +55,8 @@ Python爬虫120例正式开始
 
 ### requests-html 库学习
 
-30. [外网站点排行榜数据采集]
+30. [requests-html库初识 + 无资料解BUG之 I/O error : encoder error，Python爬虫第30例](https://dream.blog.csdn.net/article/details/120010913)
+31. [低调的采集，低调的学习，用自然资源部信息中心网站，来练习Python爬虫](https://dream.blog.csdn.net/article/details/120011196)
 
 
 
