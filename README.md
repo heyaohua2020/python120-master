@@ -1,10 +1,12 @@
-> 橡皮擦，一个逗趣的互联网高级网虫
+# ![rainbow](C:\Users\Administrator\Desktop\1f308.png) Python 爬虫系列教程，2021年国内最系统+最强
+
+> **作者：** 梦想橡皮擦（擦哥&擦姐），技术+产品，[![pencil2](https://github.githubassets.com/images/icons/emoji/unicode/270f.png) 博客地址](https://blog.csdn.net/hihell)
 
 Python爬虫120例正式开始
 
 > 个人博客地址：https://dream.blog.csdn.net/
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/3af1ccc220be4377ac0fbb84662ec709.png)
+
 
 ## Python 爬虫 120 例，已完成文章清单
 
@@ -57,6 +59,11 @@ Python爬虫120例正式开始
 
 30. [requests-html库初识 + 无资料解BUG之 I/O error : encoder error，Python爬虫第30例](https://dream.blog.csdn.net/article/details/120010913)
 31. [低调的采集，低调的学习，用自然资源部信息中心网站，来练习Python爬虫](https://dream.blog.csdn.net/article/details/120011196)
+
+### pyquery 库学习
+
+32. [大桥数据，国外大桥排行榜数据清单，Python爬虫120例第32例](https://dream.blog.csdn.net/article/details/120011213)
+33. [程序员是这样学习【中药学】知识的，先用python采集分析一波](https://dream.blog.csdn.net/article/details/120011624)
 
 
 
