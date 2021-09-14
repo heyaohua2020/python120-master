@@ -1,6 +1,6 @@
 # ![在这里插入图片描述](https://img-blog.csdnimg.cn/b4bb18153a4b43ba8c6123b795bdc2bb.png) Python 爬虫系列教程，2021年国内最系统+最强
 
-> **作者：** 梦想橡皮擦（擦哥&擦姐），技术+产品，![pencil2](https://img-blog.csdnimg.cn/95be49bb4c324372a7ecdfc5373a7b39.png) [博客地址](https://blog.csdn.net/hihell)
+> **作者：** 🍊 梦想橡皮擦（擦哥&擦姐），技术+产品 ✏️ [博客地址](https://blog.csdn.net/hihell)
 
 Python爬虫120例正式开始
 
