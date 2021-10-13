@@ -71,8 +71,8 @@
 
 ### 📕 BeautifulSoup 库学习
 
-34. 第九工场
-35. 溧阳摄影圈
+34. [在120篇系列专栏中，才能学会 python beautifulsoup4 模块，7000字博客+爬第九工场网](https://dream.blog.csdn.net/article/details/120384794)
+35. [都说python是万能的，这次用python看溧阳摄影圈，真不错](https://dream.blog.csdn.net/article/details/120407050)
 36. pngimg.com 透明 PNG 图片站采集
 
 ### 📙 协程学习
