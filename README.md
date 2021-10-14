@@ -73,7 +73,7 @@
 
 34. [在120篇系列专栏中，才能学会 python beautifulsoup4 模块，7000字博客+爬第九工场网](https://dream.blog.csdn.net/article/details/120384794)
 35. [都说python是万能的，这次用python看溧阳摄影圈，真不错](https://dream.blog.csdn.net/article/details/120407050)
-36. pngimg.com 透明 PNG 图片站采集
+36. [全程干货，用 python 下载某站全部【免抠图片】，图片背景透明，格式PNG](https://dream.blog.csdn.net/article/details/120414397)
 
 ### 📙 协程学习
 
