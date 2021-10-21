@@ -79,11 +79,11 @@
 
 37. [python 爬虫爱好者必须掌握的知识点“ 协程爬虫”，看一下如何用 gevent 采集女生用头像](https://dream.blog.csdn.net/article/details/120421824)
 38. [python协程总学不会？不可能的，边学协程边采集Coser图吧！](https://dream.blog.csdn.net/article/details/120445004)
-39. 中少绘本 MP4 视频采集，asyncio 协程第3篇
-40. Bensound 站 MP3 采集，asyncio + aiohttp 协程第4篇
-41. 历史剧网采集，协程并发控制
+39. [你是不是已经成为【爸爸程序员】了？用Python给自己的宝下载200+绘本动画吧，协程第3遍学习](https://dream.blog.csdn.net/article/details/120463479)
+40. [python 协程第4课，目标数据源为 mp3 ，目标站点为 bensound.com](https://dream.blog.csdn.net/article/details/120507981)
+41. [python 协程补个知识点，控制并发数，python 数据采集必会技能](https://dream.blog.csdn.net/article/details/120879805)
 
-
+### 📘 scrapy 库学习 
 
 
 
