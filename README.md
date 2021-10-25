@@ -85,5 +85,8 @@
 
 ### 📘 scrapy 库学习 
 
-
+42. [学python，怎么能不学习scrapy呢，这篇博客带你学会它](https://dream.blog.csdn.net/article/details/120899494)
+43. [python scrapy 管道学习，并拿在行练手爬虫项目](https://dream.blog.csdn.net/article/details/120934425)
+44. [python scrapy极细拆解，打开Spider类看内容，顺手爬了一下优设网](https://dream.blog.csdn.net/article/details/120936534)
+45. [练手练到阅文集团作家中心了，python crawlspider 二维抓取学习](https://dream.blog.csdn.net/article/details/120835220)
 
