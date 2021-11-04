@@ -94,4 +94,5 @@
 48. [程序员跨行帮朋友，python爬虫之饲料添加剂数据，采集+备份](https://dream.blog.csdn.net/article/details/121028282)
 49. [CSDN热榜、华为云博客都可用来练习Python scrapy 爬虫](https://dream.blog.csdn.net/article/details/121066927)
 50. [纯纯的爬虫知识，python scrapy 下载中间件知多少](https://dream.blog.csdn.net/article/details/121083780)
+51. [20行Python代码、爬虫、蓝桥训练营，一篇博客整合这几个关键词](https://dream.blog.csdn.net/article/details/121151700)
 
