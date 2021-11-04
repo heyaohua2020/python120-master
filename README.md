@@ -92,4 +92,6 @@
 46. [你只认识大众汽车的车标怎么能行？赶紧用python采集所有车标学习一下](https://dream.blog.csdn.net/article/details/120988302)
 47. [拿爱奇艺练手Python爬虫，是在法律边缘试探吗？爬虫技巧学习](https://dream.blog.csdn.net/article/details/121007901)
 48. [程序员跨行帮朋友，python爬虫之饲料添加剂数据，采集+备份](https://dream.blog.csdn.net/article/details/121028282)
+49. [CSDN热榜、华为云博客都可用来练习Python scrapy 爬虫](https://dream.blog.csdn.net/article/details/121066927)
+50. [纯纯的爬虫知识，python scrapy 下载中间件知多少](https://dream.blog.csdn.net/article/details/121083780)
 
