@@ -94,5 +94,10 @@
 48. [程序员跨行帮朋友，python爬虫之饲料添加剂数据，采集+备份](https://dream.blog.csdn.net/article/details/121028282)
 49. [CSDN热榜、华为云博客都可用来练习Python scrapy 爬虫](https://dream.blog.csdn.net/article/details/121066927)
 50. [纯纯的爬虫知识，python scrapy 下载中间件知多少](https://dream.blog.csdn.net/article/details/121083780)
-51. [20行Python代码、爬虫、蓝桥训练营，一篇博客整合这几个关键词](https://dream.blog.csdn.net/article/details/121151700)
+51. [[20行Python scrapy 代码，去采集【蓝桥】训练营](https://editor.csdn.net/md/?articleId=121151700)](https://dream.blog.csdn.net/article/details/121151700)
+52. [Scrapy Spider中间件，你学会了吗？本篇博客有一案例](https://dream.blog.csdn.net/article/details/120969435)
+53. [通过淘宝数据学习爬虫，python scrapy requests与response对象](https://dream.blog.csdn.net/article/details/120979533)
+54. [你知道在 scrapy 中，可以定制化导出数据格式吗？scrapy 导出器学习](https://dream.blog.csdn.net/article/details/120992365)
+55. [python scrapy ，几行代码实现一个【搜狗图片】下载器](https://dream.blog.csdn.net/article/details/120996308)
+56. [Python爬虫落地应用之【自动化点赞器】，一篇游走在封禁边缘的博客](https://dream.blog.csdn.net/article/details/121000212)
 
