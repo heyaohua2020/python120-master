@@ -100,4 +100,9 @@
 54. [你知道在 scrapy 中，可以定制化导出数据格式吗？scrapy 导出器学习](https://dream.blog.csdn.net/article/details/120992365)
 55. [python scrapy ，几行代码实现一个【搜狗图片】下载器](https://dream.blog.csdn.net/article/details/120996308)
 56. [Python爬虫落地应用之【自动化点赞器】，一篇游走在封禁边缘的博客](https://dream.blog.csdn.net/article/details/121000212)
+57. [python scrapy 代理中间件，爬虫必掌握的内容之一](https://dream.blog.csdn.net/article/details/121012464)
+
+### 📗 Python爬虫之手机APP抓包
+
+58. [Python爬虫120例之案例58，手机APP爬虫，“武器库”的准备and皮皮虾APP的测试](https://blog.csdn.net/hihell/article/details/121028957)
 
