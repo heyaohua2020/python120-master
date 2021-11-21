@@ -105,4 +105,8 @@
 ### 📗 Python爬虫之手机APP抓包
 
 58. [Python爬虫120例之案例58，手机APP爬虫，“武器库”的准备and皮皮虾APP的测试](https://blog.csdn.net/hihell/article/details/121028957)
+59. [豆果美食APP，看一下都给[Python爬虫爱好者]提供了哪些接口](https://dream.blog.csdn.net/article/details/121163185)
+60. [fiddler软件+手机模拟器搭配抓包，这篇博客有Python爬虫与百家号的事](https://dream.blog.csdn.net/article/details/121181900)
+61. [Python爬虫工程师必备工具 Charles 的安装，以及爬取淘宝网+学UI网](https://dream.blog.csdn.net/article/details/121185069)
+62. [Python手机抓包案例，用Charles捕获【春雨医生】接口数据](https://dream.blog.csdn.net/article/details/121189555)
 
