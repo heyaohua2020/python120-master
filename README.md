@@ -94,7 +94,7 @@
 48. [程序员跨行帮朋友，python爬虫之饲料添加剂数据，采集+备份](https://dream.blog.csdn.net/article/details/121028282)
 49. [CSDN热榜、华为云博客都可用来练习Python scrapy 爬虫](https://dream.blog.csdn.net/article/details/121066927)
 50. [纯纯的爬虫知识，python scrapy 下载中间件知多少](https://dream.blog.csdn.net/article/details/121083780)
-51. [[20行Python scrapy 代码，去采集【蓝桥】训练营](https://editor.csdn.net/md/?articleId=121151700)](https://dream.blog.csdn.net/article/details/121151700)
+51. [20行Python scrapy 代码，去采集【蓝桥】训练营](https://editor.csdn.net/md/?articleId=121151700)
 52. [Scrapy Spider中间件，你学会了吗？本篇博客有一案例](https://dream.blog.csdn.net/article/details/120969435)
 53. [通过淘宝数据学习爬虫，python scrapy requests与response对象](https://dream.blog.csdn.net/article/details/120979533)
 54. [你知道在 scrapy 中，可以定制化导出数据格式吗？scrapy 导出器学习](https://dream.blog.csdn.net/article/details/120992365)
@@ -105,7 +105,7 @@
 ### 📗 Python爬虫之手机APP抓包
 
 58. [Python爬虫120例之案例58，手机APP爬虫，“武器库”的准备and皮皮虾APP的测试](https://blog.csdn.net/hihell/article/details/121028957)
-59. [豆果美食APP，看一下都给[Python爬虫爱好者]提供了哪些接口](https://dream.blog.csdn.net/article/details/121163185)
+59. [豆果美食APP，看一下都给Python爬虫爱好者提供了哪些接口](https://dream.blog.csdn.net/article/details/121163185)
 60. [fiddler软件+手机模拟器搭配抓包，这篇博客有Python爬虫与百家号的事](https://dream.blog.csdn.net/article/details/121181900)
 61. [Python爬虫工程师必备工具 Charles 的安装，以及爬取淘宝网+学UI网](https://dream.blog.csdn.net/article/details/121185069)
 62. [Python手机抓包案例，用Charles捕获【春雨医生】接口数据](https://dream.blog.csdn.net/article/details/121189555)
